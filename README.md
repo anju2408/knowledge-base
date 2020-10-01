@@ -61,7 +61,6 @@ and run the Docker container.
 docker build --tag runabove-kb .
 docker run --rm -ti -p 4000:4000 runabove-kb
 ```
-
 You can now point your browser to http://localhost:4000/kb/ and see how it
 looks.
 
@@ -101,4 +100,3 @@ When you’re done, open a pull request for your fork. We'll review it as soon
 as possible!
 
 # Got a great idea? Fork us now!
-
